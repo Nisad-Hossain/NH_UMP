@@ -24,6 +24,6 @@ git clone https://github.com/Nisad-Hossain/NH_UMP
 
 cd NH_UMP
 
-Python NH_UMP.py
+python NH_UMP.py
 
 (NOTE) : THIS TOOLS IS FREE FOR 7 DAYS SO ENJOY NH_UMP TOOLS
